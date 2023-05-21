@@ -1,6 +1,6 @@
 name: Java CI with Maven
 on:
- [ push, pull_request, workflow_dispatch ]
+ [ push, pull_request, YuuKiriyama-patch-1 ]
 jobs:
  build:
  runs-on: ubuntu-latest
